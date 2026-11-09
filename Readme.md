@@ -87,11 +87,7 @@ Hi, I'm <a href="https://github.com/fantahunph21"> Fantahun Fkadie </a>
 <br>
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fantahunPh21/fantahunPh21/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/fantahunPh21/fantahunPh21/output/github-contribution-grid-snake.svg" />
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/fantahunPh21/fantahunPh21/output/github-contribution-grid-snake.svg" />
-  </picture>
+  <img src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake Animation" />
 </p>
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=fantahunph21&theme=dark&hide_border=true" alt="GitHub Streak" />
