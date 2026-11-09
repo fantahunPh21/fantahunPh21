@@ -44,51 +44,55 @@ Hi, I'm <a href="https://github.com/fantahunph21"> Fantahun Fkadie </a>
 
 #### Languages
 
-![Python](https://img.shields.io/badge/Python-orange)&nbsp;
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)&nbsp;
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)&nbsp;
-![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)&nbsp;
-![Java](https://img.shields.io/badge/Java-%23150458.svg?style=flat&logo=java&logoColor=orange)&nbsp;
-![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=flat&logo=gnu-bash&logoColor=white)&nbsp;
-![Html](https://img.shields.io/badge/HTML%20-%23E34F26.svg?logo=html5&logoColor=white)
+<img src="https://img.icons8.com/color/48/000000/python--v1.png" alt="Python" title="Python" width="40" height="40"/>
+<img src="https://img.icons8.com/color/48/000000/dart.png" alt="Dart" title="Dart" width="40" height="40"/>
+<img src="https://img.icons8.com/color/48/000000/php.png" alt="PHP" title="PHP" width="40" height="40"/>
+<img src="https://img.icons8.com/color/48/000000/javascript--v1.png" alt="JavaScript" title="JavaScript" width="40" height="40"/>
+<img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png" alt="Java" title="Java" width="40" height="40"/>
+<img src="https://img.icons8.com/color/48/000000/bash.png" alt="Bash / Shell" title="Bash / Shell" width="40" height="40"/>
+<img src="https://img.icons8.com/color/48/000000/html-5--v1.png" alt="HTML5" title="HTML5" width="40" height="40"/>
 
 ---
 
 #### Web Development
 
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)&nbsp;
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)&nbsp;
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)&nbsp;
-![Fast API](https://img.shields.io/badge/fastapi-109989?style=flat&logo=FASTAPI&logoColor=white)
+<img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React" title="React" width="40" height="40"/>
+<img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" title="Node.js" width="40" height="40"/>
+<img src="https://img.icons8.com/color/48/000000/spring-logo.png" alt="Spring Boot" title="Spring Boot" width="40" height="40"/>
 
 ---
 
 #### Mobile Application Development
 
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)&nbsp;
+<img src="https://img.icons8.com/color/48/000000/flutter.png" alt="Flutter" title="Flutter" width="40" height="40"/>
+
+---
 
 #### Database
 
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white)&nbsp;
-![phpMyAdmin](https://img.shields.io/badge/phpMyAdmin-6C78AF?style=flat&logo=phpmyadmin&logoColor=white)&nbsp;
+<img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL" title="MySQL" width="40" height="40"/>
+
+---
 
 #### Tools and Technologies
 
-![Linux](https://img.shields.io/badge/Linux-05122A?style=flat&logo=linux&logoColor=white)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![Jupyter](https://img.shields.io/badge/Jupyter%20-%23F37626.svg?logo=Jupyter&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white)
-![VIM](https://img.shields.io/badge/VIM-%2311AB00.svg?&style=flat&logo=vim&logoColor=white)&nbsp;
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=flat&logo=docker&logoColor=white)&nbsp;
+<img src="https://img.icons8.com/color/48/000000/linux--v1.png" alt="Linux" title="Linux" width="40" height="40"/>
+<img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" title="Git" width="40" height="40"/>
+<img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="Visual Studio Code" title="Visual Studio Code" width="40" height="40"/>
+<img src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker" title="Docker" width="40" height="40"/>
 
   </td>
  </tr>
 </table>
 <br>
 
-![github graph](https://activity-graph.herokuapp.com/graph?username=fantahunph21&theme=react-dark&hide_border=true&area=true)
+<p align="center">
+  <img src="https://ghchart.rshah.org/2188ff/fantahunph21" alt="Fantahun's GitHub Contributions Chart" />
+</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=fantahunph21&theme=dark&hide_border=true" alt="GitHub Streak" />
+</p>
 
-<br>
 <div align="center">
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" /> <!-- line breaker -->
