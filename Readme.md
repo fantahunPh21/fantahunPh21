@@ -24,10 +24,14 @@ Hi, I'm <a href="https://github.com/fantahunph21"> Fantahun Fkadie </a>
 > Interested in Full Stack Cross platform Application development
 ```
 
-<img src="https://img.shields.io/badge/Build-Javascript-brightyellow" /> 
-<img src="https://komarev.com/ghpvc/?username=fantahunph21&color=blue" alt="Profile views" align="right"/> 
-<img src="https://img.shields.io/badge/Mobile-Flutter-blue" />
-<img src="https://img.shields.io/badge/Mobile-Python-orange" />
+<br clear="both"/>
+
+<p>
+  <img src="https://img.shields.io/badge/Build-Javascript-brightyellow" /> 
+  <img src="https://img.shields.io/badge/Mobile-Flutter-blue" />
+  <img src="https://img.shields.io/badge/Mobile-Python-orange" />
+  <img src="https://komarev.com/ghpvc/?username=fantahunph21&color=blue" alt="Profile views" align="right"/> 
+</p>
 
 <br/>
 
