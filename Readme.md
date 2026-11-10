@@ -35,12 +35,14 @@ Hi, I'm <a href="https://github.com/fantahunph21"> Fantahun Fkadie </a>
 
 <br/>
 
-<table width="100%">
- <tr>
-  <td> <h3 align="center"> ⚡ SKILLS </h3> </td>
- </tr>
- <tr>
-  <td width="100%">
+<table width="100%" style="width:100%; table-layout:fixed;">
+  <tr>
+    <td align="center">
+      <h3>⚡ SKILLS</h3>
+    </td>
+  </tr>
+  <tr>
+    <td width="100%" align="center">
 
 #### Languages
 
